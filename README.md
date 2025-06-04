@@ -28,11 +28,7 @@ source("03_mzml_exploration.R")
 source("04_correlation_analysis.R")  # Optional
 ```
 
-Or, if you saved intermediate results:
-```r
-load("res_qnt_analysis.RData")
-source("02_peptide_spectrum_link.R")
-```
+
 
 ## Notes
 
