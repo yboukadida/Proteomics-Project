@@ -1,4 +1,4 @@
-# PTM Predictor
+# Proteomics Analysis
 
 This R project analyzes proteomics data from TMT-labeled experiments. It performs preprocessing, statistical testing, and visualizations to identify differentially expressed peptides/proteins. It also includes MS2 spectrum inspection from raw `.mzML` files.
 
