@@ -1,0 +1,24 @@
+# History and session data
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# RStudio project files
+*.Rproj
+
+# Data files (not to be tracked)
+data/
+*.mzML
+*.mztab
+*.raw
+*.RData
+
+# Output figures (can be regenerated)
+*.png
+*.pdf
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
